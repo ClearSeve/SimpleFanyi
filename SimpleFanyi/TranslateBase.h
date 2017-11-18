@@ -7,7 +7,8 @@
 #include <vector>
 using namespace std;
 
-#import "c:\\windows\system32\\winhttp.dll" no_namespace 
+// #import "c:\\windows\system32\\winhttp.dll" no_namespace 
+#import "c:\\windows\system32\\winhttpcom.dll" no_namespace 
 
 typedef struct  _DRAWTEXTSTRUCT
 {
